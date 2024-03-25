@@ -7,6 +7,6 @@ Plan of Action
 4. Model Training using Deep Learning in Keras for separate: Simple Neural Net, CNN, LSTM and DistilBERT Models and analyse model performance and results
 5. Last, perform predictions on real L&T tweets
 
-![Alt text](src/Slide - 2.png?raw=true "Title")
-![Alt text](src/Slide - 3.png?raw=true "Title")
-![Alt text](src/Slide - 4.png?raw=true "Title")
+![plot](src/Slide - 2.png)
+![plot](src/Slide - 3.png)
+![plot](src/Slide - 4.png)

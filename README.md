@@ -6,3 +6,7 @@ Plan of Action
 3. Import GloVe Word Embedding to build Embedding Dictionary + Use this to build Embedding Matrix for our Corpus
 4. Model Training using Deep Learning in Keras for separate: Simple Neural Net, CNN, LSTM and DistilBERT Models and analyse model performance and results
 5. Last, perform predictions on real L&T tweets
+
+![Alt text](src/Slide - 2.png?raw=true "Title")
+![Alt text](src/Slide - 3.png?raw=true "Title")
+![Alt text](src/Slide - 4.png?raw=true "Title")
